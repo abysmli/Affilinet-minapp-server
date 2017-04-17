@@ -1,0 +1,349 @@
+[
+  {
+    "title": "[介绍]欧哈哈公众号",
+    "content": "欧哈哈提供欧洲商品推荐和扫码比价，打造最大欧洲商品中文信息库。欢迎关注“欧哈哈”微信公众号\n",
+    "views": 0,
+    "state": 20,
+    "location": [
+      null,
+      null
+    ],
+    "productCode": {
+      "ean": "",
+      "asin": "",
+      "styleId": "",
+      "price": null,
+      "currency": "CNY"
+    },
+    "tags": [
+      ""
+    ],
+    "images": [
+      "https://weapp.allhaha.com/img/2017-04-09-c705459c0e128438b79f6590a8978d25.jpg"
+    ],
+    "__v": 2,
+    "packageDetail": {
+      "length": 0,
+      "width": 0,
+      "height": 0,
+      "weight": 0
+    }
+  },
+  {
+    "from": "58e9c0ed4a490b648797969b",
+    "title": "[介绍]“逛人备忘”小程序",
+    "content": "“逛人备忘”小程序由欧哈哈开发，主要提供旅游购物备忘录功能，随时记录购物信息，搜索或扫条形码快速获取商品信息。同时可用于二手商品、活动信息、招聘信息、景点的记录，与微信好友和群友分享。参考各范例，发掘更多应用场景。信息一键复制，随时修改，兼具记录和信息管理功能。",
+    "views": 0,
+    "state": 20,
+    "location": [
+      null,
+      null
+    ],
+    "productCode": {
+      "ean": "",
+      "asin": "",
+      "styleId": "",
+      "price": null,
+      "currency": "CNY"
+    },
+    "tags": [
+      ""
+    ],
+    "images": [
+      "https://weapp.allhaha.com/img/2017-04-09-496c65846a0ed6d9f14654590afe0540.jpg"
+    ],
+    "__v": 1,
+    "packageDetail": {
+      "length": 0,
+      "width": 0,
+      "height": 0,
+      "weight": 0
+    }
+  },
+  {
+    "from": "58e9bfb64a490b6487979692",
+    "title": "[范例]发现好物|DM维生素小熊软糖",
+    "content": "120克 60粒装 无色素 无添加剂\n\n逛街发现好东西随时记录，扫取产品条码获取产品基本信息。分享给微信好友或微信群，大家一起对产品进行讨论。添加地理位置信息，方便朋友找到。",
+    "views": 0,
+    "state": 20,
+    "location": [
+      null,
+      null
+    ],
+    "productCode": {
+      "ean": "4010355164384",
+      "asin": "",
+      "styleId": "",
+      "price": 1.99,
+      "currency": "EUR"
+    },
+    "tags": [
+      ""
+    ],
+    "images": [
+      "https://weapp.allhaha.com/img/2017-04-09-cded7482522f072ae9274e90ea83d663.jpg",
+      "https://weapp.allhaha.com/img/2017-04-09-483455a2d83ca10bc17ca0a2a181ef04.jpg"
+    ],
+    "__v": 1,
+    "packageDetail": {
+      "length": 0,
+      "width": 0,
+      "height": 0,
+      "weight": 0
+    }
+  },
+  {
+    "from": "58e9bfe64a490b6487979693",
+    "title": "[范例]发现折扣|Metzingen WMF 不锈钢锅5件套",
+    "content": "",
+    "views": 0,
+    "state": 20,
+    "location": [
+      9.279945396402471,
+      48.53613720181971
+    ],
+    "productCode": {
+      "ean": "",
+      "asin": "",
+      "styleId": "",
+      "price": 99,
+      "currency": "EUR"
+    },
+    "tags": [
+      ""
+    ],
+    "images": [
+      "https://weapp.allhaha.com/img/2017-04-09-d9ddff9df1c1f7305bb0247f396f08d0.jpg",
+      "https://weapp.allhaha.com/img/2017-04-09-49537fad40cadb80d7c95af22f279860.jpg"
+    ],
+    "__v": 2,
+    "packageDetail": {
+      "length": 0,
+      "width": 0,
+      "height": 0,
+      "weight": 0
+    }
+  },
+  {
+    "from": "58e9c0004a490b6487979694",
+    "title": "[范例]发现好景|北海公园",
+    "content": "记录旅游景点信息和照片，推荐给好友或者分享到微信群。价格可表示门票价格。",
+    "views": 0,
+    "state": 20,
+    "location": [
+      116.3892203198905,
+      39.9257754847719
+    ],
+    "productCode": {
+      "ean": "",
+      "asin": "",
+      "styleId": "",
+      "price": 10,
+      "currency": "CNY"
+    },
+    "tags": [
+      ""
+    ],
+    "images": [
+      "https://weapp.allhaha.com/img/2017-04-09-36c629fb6b5159fd4c1df983de5b2e90.jpg",
+      "https://weapp.allhaha.com/img/2017-04-09-b9bbaacf7bc87ba9ea276e8da6c8f003.jpg"
+    ],
+    "__v": 1,
+    "packageDetail": {
+      "length": 0,
+      "width": 0,
+      "height": 0,
+      "weight": 0
+    }
+  },
+  {
+    "from": "58e9c0144a490b6487979695",
+    "title": "[范例]发现好店|斯图加特重庆滋味中餐馆",
+    "content": "重庆滋味提供正宗川味美食，用餐环境舒适，价格适宜。",
+    "views": 0,
+    "state": 20,
+    "location": [
+      9.222560298821083,
+      48.73958938928774
+    ],
+    "productCode": {
+      "ean": "",
+      "asin": "",
+      "styleId": "",
+      "price": null,
+      "currency": "CNY"
+    },
+    "tags": [
+      ""
+    ],
+    "images": [
+      "https://weapp.allhaha.com/img/2017-04-09-1dc805ffd38ed120a37455b1a2fb62ec.jpg",
+      "https://weapp.allhaha.com/img/2017-04-09-93a26b5ae83cecb4f05c45adf64ee71f.jpg"
+    ],
+    "__v": 5,
+    "packageDetail": {
+      "length": 0,
+      "width": 0,
+      "height": 0,
+      "weight": 0
+    }
+  },
+  {
+    "from": "58e9c0374a490b6487979696",
+    "title": "[范例]物品管理|LV皮带",
+    "content": "今天新入LV皮带一条\n\n购物之后随时记录，方便管理，转卖更方便，只要修改价格，删减图片，一键转发到微信群。",
+    "views": 0,
+    "state": 20,
+    "location": [
+      null,
+      null
+    ],
+    "productCode": {
+      "ean": "",
+      "asin": "",
+      "styleId": "",
+      "price": 199,
+      "currency": "EUR"
+    },
+    "tags": [
+      ""
+    ],
+    "images": [
+      "https://weapp.allhaha.com/img/2017-04-09-415a57d493e77ecf3e884435131bfea1.jpg",
+      "https://weapp.allhaha.com/img/2017-04-09-c99ce6b568e9c991df97e00146c9c447.jpg",
+      "https://weapp.allhaha.com/img/2017-04-09-58cae087c6d6e1eacb456408d6b9b954.jpg"
+    ],
+    "__v": 1,
+    "packageDetail": {
+      "length": 0,
+      "width": 0,
+      "height": 0,
+      "weight": 0
+    }
+  },
+  {
+    "from": "58e9c04f4a490b6487979697",
+    "title": "[范例]二手转让|iPad Air 一台",
+    "content": "128 GB 银色",
+    "views": 0,
+    "state": 20,
+    "location": [
+      null,
+      null
+    ],
+    "productCode": {
+      "ean": "",
+      "asin": "",
+      "styleId": "",
+      "price": 300,
+      "currency": "EUR"
+    },
+    "tags": [
+      ""
+    ],
+    "images": [
+      "https://weapp.allhaha.com/img/2017-04-09-b6577c499f9b184289e5f46924a7903d.jpg",
+      "https://weapp.allhaha.com/img/2017-04-09-4d9e459bd589c10646ba693e42075cbd.jpg"
+    ],
+    "__v": 1,
+    "packageDetail": {
+      "length": 0,
+      "width": 0,
+      "height": 0,
+      "weight": 0
+    }
+  },
+  {
+    "from": "58e9c0624a490b6487979698",
+    "title": "[范例]租房信息|Vaihingen校区Allmandring xx号学生宿舍出租",
+    "content": "本人因去外地实习，将学生宿舍出租6个月，有意者请联系。\n\n电话：xxxxxxxx\n微信：xxxxxx",
+    "views": 0,
+    "state": 20,
+    "location": [
+      9.100284623113456,
+      48.74515834737465
+    ],
+    "productCode": {
+      "ean": "",
+      "asin": "",
+      "styleId": "",
+      "price": 300,
+      "currency": "EUR"
+    },
+    "tags": [
+      ""
+    ],
+    "images": [
+      "https://weapp.allhaha.com/img/2017-04-09-2ae5c46d3782d3f46af34f3bcb6f2ee6.jpg"
+    ],
+    "__v": 2,
+    "packageDetail": {
+      "length": 0,
+      "width": 0,
+      "height": 0,
+      "weight": 0
+    }
+  },
+  {
+    "from": "58e9c07b4a490b6487979699",
+    "title": "[范例]活动发布|2017夏季学期迎新活动",
+    "content": "各位斯图加特的新同学，为了欢迎大家的到来以及各好的提供新生的咨询服务，斯图加特中国学者学生联合会将于四月初举行新生引入活动，即协助新生办理相关的入学，保险，银行开户，市民管理局注册，以及外管局注册等相关手续。\n\n集合时间：2017年4月3日/5日（周一/周三），早上10：00\n集合地点：Vaihingen校区鸭子湖 （Pfaffenwaldring 54, 70569 Stuttgart）",
+    "views": 0,
+    "state": 20,
+    "location": [
+      9.104591166548529,
+      48.74566772369701
+    ],
+    "productCode": {
+      "ean": "",
+      "asin": "",
+      "styleId": "",
+      "price": null,
+      "currency": "CNY"
+    },
+    "tags": [
+      ""
+    ],
+    "images": [
+      "https://weapp.allhaha.com/img/2017-04-09-3333c7e33a855509cdc22c36a003a03e.jpg"
+    ],
+    "__v": 3,
+    "packageDetail": {
+      "length": 0,
+      "width": 0,
+      "height": 0,
+      "weight": 0
+    }
+  },
+  {
+    "from": "58e9cbe24a490b64879796a0",
+    "title": "[范例]工作机会|Bosch招聘实习生",
+    "content": "上海博世（投资）有限公司招聘实习生一名，电子方向，要求如下：\n1. xxxxxxx\n2. xxxxxx\n3. xxxxxx",
+    "views": 0,
+    "state": 20,
+    "location": [
+      121.3543229040889,
+      31.23081661268443
+    ],
+    "productCode": {
+      "ean": "",
+      "asin": "",
+      "styleId": "",
+      "price": null,
+      "currency": "CNY"
+    },
+    "tags": [
+      ""
+    ],
+    "images": [
+      "https://weapp.allhaha.com/img/2017-04-09-7c3851a2fb713c0881cd850565271319.jpg"
+    ],
+    "__v": 1,
+    "packageDetail": {
+      "length": 0,
+      "width": 0,
+      "height": 0,
+      "weight": 0
+    }
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "logLevel": "debug",
+  "port": 3000,
+  "domain": "https://weapp.allhaha.com",
+  "jwt-secret": "test",
+  "jwt-expire": "30d",
+  "appId": "wx3992094fee9220be",
+  "appSecret": "f8526cbaed21b38cdb724c035b716d6b",
+  "sessionKey": "tiihtNczf5v6AKRyjwEUhQ==",
+  "db": "mongodb://127.0.0.1/march",
+  "mongooseDebug": false,
+  "seedUserNum":5000,
+
+  "eanSearchUrl": "http://allhaha.com/weixin/eanSearch?value=%s",
+  "querySearchUrl": "http://allhaha.com/weixin/querySearch?value=%s"
+}

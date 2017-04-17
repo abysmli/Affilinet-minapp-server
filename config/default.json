@@ -1,7 +1,7 @@
 {
   "logLevel": "debug",
   "port": 3000,
-  "domain": "https://weapp.allhaha.com",
+  "domain": "https://allhahaha.com",
   "jwt-secret": "test",
   "jwt-expire": "30d",
   "appId": "wx3992094fee9220be",

@@ -9,7 +9,7 @@
   "sessionKey": "tiihtNczf5v6AKRyjwEUhQ==",
   "db": "mongodb://127.0.0.1/march",
   "mongooseDebug": false,
-  "seedUserNum":5000,
+  "seedUserNum":2000,
 
   "eanSearchUrl": "http://allhaha.com/weixin/eanSearch?value=%s",
   "querySearchUrl": "http://allhaha.com/weixin/querySearch?value=%s"

@@ -17,7 +17,7 @@ let UserUtils = module.exports = {};
 
 const WX_AUTH_URL = "https://api.weixin.qq.com/sns/jscode2session?appid=%s&secret=%s&js_code=%s&grant_type=authorization_code";
 const WX_GET_TOKEN_URL = "https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=%s&secret=%s";
-const WX_QRCODE_URL = "https://api.weixin.qq.com/cgi-bin/wxaapp/createwxaqrcode?access_token=%s";
+const WX_QRCODE_URL = "https://api.weixin.qq.com/wxa/getwxacode?access_token=%s";
 /**
  * 根据用户登陆返回code，去微信获取sessionKey
  * @param code {String} 登陆时获取的code

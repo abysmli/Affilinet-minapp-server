@@ -55,6 +55,8 @@ UserUtils.decode = function (encrypted, iv, sessionKey) {
  * @returns {Promise.<*>}
  */
 UserUtils.genQrCode = async function (qrPath, userId) {
+  console.log("qrPath: \n");
+  console.log(qrPath);
   let token = await getAccessToken();
   let filePath = path.join(__dirname, '../', 'public/qrcode', userId + '.jpg');
   let exist = fs.existsSync(filePath);

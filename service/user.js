@@ -13,7 +13,7 @@ const constants = require('../utils/constants');
 const exception = require('../utils/exception');
 const defaultNotes = require('../utils/notes.json');
 let UserService = module.exports = {};
-const PAGE_PATH = "pages/noteList?shareNote=true?userId=%s&nickName=%s";
+const PAGE_PATH = "pages/noteList?shareNote=true&userId=%s&nickName=%s";
 
 /**
  * 用户登录时 如果已注册 则更新用户名头像及updateTime
